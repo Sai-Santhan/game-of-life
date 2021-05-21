@@ -1,6 +1,6 @@
 # Intro
 
-This is just a fun project of mine to learn react hooks
+This is just a fun project of mine to learn react hooks.
 
 # Getting Started with Create React App
 
